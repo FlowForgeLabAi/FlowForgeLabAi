@@ -24,7 +24,7 @@ https://huggingface.co/datasets/FlowForgeLabAi/minimax-h3-8gb-bench
 
 18 timed runs plus 534 samples of GPU monitoring data.
 
-**A self-check page, indexed on the H3 model page**
+**A self-check Space on Hugging Face, listed under the H3 model tag**
 https://huggingface.co/spaces/FlowForgeLabAi/minimax-h3-8gb-advisor
 
 The six traps, a power-draw self-test, and a wall-clock predictor, `T ≈ 102 + 34.1 × steps`.
