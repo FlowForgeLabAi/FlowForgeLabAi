@@ -27,7 +27,7 @@ https://huggingface.co/datasets/FlowForgeLabAi/minimax-h3-8gb-bench
 **A self-check Space on Hugging Face, listed under the H3 model tag**
 https://huggingface.co/spaces/FlowForgeLabAi/minimax-h3-8gb-advisor
 
-The six traps, a power-draw self-test, and a wall-clock predictor, `T ≈ 102 + 34.1 × steps`.
+The six traps, a power-draw self-test, and the measured wall-clock envelope: 8 steps 14.3 min, 20 steps 34 min on a 10 s 768×1024 clip, fresh session (38–43 min once the page file is under pressure).
 
 **A ComfyUI bug report that an official fix PR cites**
 https://github.com/Comfy-Org/ComfyUI/issues/16544
